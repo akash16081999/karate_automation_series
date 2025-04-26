@@ -1,0 +1,34 @@
+14:37:39.510 skipping bootstrap configuration: could not find or read file: classpath:karate-config.js
+14:37:39.697 [print] file
+14:37:39.755 [print] New
+"value": "New",
+  "onclick": "CreateNewDoc()"
+}
+
+onclick": "CreateNewDoc()"
+    },
+    {
+      "value": "Open",
+      "onclick": "OpenDoc()"
+    },
+    {
+      "value": "Close",
+      "onclick": "CloseDoc()"
+    }
+  ]
+}
+
+
+        "onclick": "CloseDoc()"
+      }
+    ]
+  }
+}
+
+click": "CloseDoc()"
+        }
+      ]
+    }
+  }
+}
+

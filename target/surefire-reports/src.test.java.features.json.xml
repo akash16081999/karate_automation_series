@@ -1,0 +1,7 @@
+<testsuite failures="0" name="src/test/java/features/json.feature" skipped="0" tests="1" time="0.209282">
+  <testcase classname="src.test.java.features.json" name="fetch the id alone...." time="0.209282">
+    <system-out>* def jsonArr = ........................................................... passed
+* print jsonArr.menu.id ................................................... passed
+* print jsonArr.menu.popup.menuitem[0].value .............................. passed</system-out>
+  </testcase>
+</testsuite>

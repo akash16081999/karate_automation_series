@@ -1,0 +1,5 @@
+<testsuite failures="0" name="src/test/java/features/apis.feature" skipped="0" tests="1" time="0">
+  <testcase classname="src.test.java.features.apis" name="validate the" time="0">
+    <system-out/>
+  </testcase>
+</testsuite>
