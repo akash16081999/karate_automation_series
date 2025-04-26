@@ -15,5 +15,5 @@ Feature: Json validation on multiple scenarios
         }
       }}
       """
-    * print jsonArr.menu.id
+    
      * print jsonArr.menu.popup.menuitem[0].value
