@@ -1,5 +1,5 @@
 Feature: Json validation on multiple scenarios
-
+#examples scenario for realtime data fetch from json
   Scenario: fetch the id alone....
     * def jsonArr =
       """
